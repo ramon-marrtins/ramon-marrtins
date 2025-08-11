@@ -1,1 +1,1 @@
-Olá! Eu sou Ramon Martins. Desde 2021 no mundo da tecnologia, atuando como desenvolvedor web e totalmente fã da programação. Sempre em busca de novos conhecimentos, sendo eternamente um aluno.
+Hello! I'm Ramon Martins. I've been in the technology world since 2021, working as a web developer and a huge programming enthusiast. I'm always seeking new knowledge and am always a student.
