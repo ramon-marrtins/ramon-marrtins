@@ -2,13 +2,13 @@ Hello! I'm Ramon Martins. I've been in the technology world since 2021, working 
 
 👨‍💻 Technologies
 
-•  Undergraduate in Systems Analysis and Development
-•  HTML
-•  CSS
-•  PHP
-•  C
-•  JavaScript
-•  Information security and validation techniques
-•  AWS
-•  DOCKER
-•  AZURE
+-  Undergraduate in Systems Analysis and Development
+-  HTML
+-  CSS
+-  PHP
+-  C
+-  JavaScript
+-  Information security and validation techniques
+-  AWS
+-  DOCKER
+-  AZURE
