@@ -12,3 +12,4 @@ Hello! I'm Ramon Martins. I've been in the technology world since 2021, working 
 -  AWS
 -  DOCKER
 -  AZURE
+-  Electronic Voting Machine Linux System Programmer - TRE Ceará
